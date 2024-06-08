@@ -1,0 +1,1 @@
+import{_ as c,e as a,f as s,R as t,S as o,g as _}from"./index-02b6e309.js";const d={},n=e=>(t("data-v-0ccde9a4"),e=e(),o(),e),r={class:"wait-module"},i=n(()=>_("div",null,"Crowded ahead, please try again later...",-1)),p=[i];function l(e,u){return a(),s("div",r,p)}const h=c(d,[["render",l],["__scopeId","data-v-0ccde9a4"]]);export{h as default};

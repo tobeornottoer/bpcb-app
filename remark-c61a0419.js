@@ -1,0 +1,1 @@
+import{G as r}from"./index-61481958.js";const s=t=>r.request("post","/v1/remark",{data:t}),o=()=>r.request("get","/v1/remark"),a=t=>r.request("post","/v1/contact/us",{data:t});export{a,o as g,s as p};
